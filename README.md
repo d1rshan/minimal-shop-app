@@ -1,7 +1,8 @@
-# minimalshop
+# MinimalShop
 
-A new Flutter project.
 
+MinimalShop is a lightweight and intuitive app designed for seamless online shopping, 
+offering a simple user interface and essential features for a smooth purchasing experience.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
